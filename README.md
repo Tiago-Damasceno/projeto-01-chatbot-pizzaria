@@ -41,7 +41,7 @@ _orignal_msg = request.values.get('body', '')_
 ## ⚙️ Executando os testes
 
 * Os testes do CHATBOT PYTHON foram realizados no próprio console do VSCode.
-* Já os testes CHATBOTZAP foram realizados em um *localhost*
+* Já os testes CHATBOTZAP foram realizados em um *localhost* implantados pelo FLASK
 
 
 ## 📦 Implantação
